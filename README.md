@@ -9,7 +9,7 @@ cd ./FlaskTemplate
 ```
 ### Dependencies
 ```shell script
-pip install -r ./requirements.txt
+pip3 install -r ./requirements.txt
 ```
 ### Running
 ```shell script
